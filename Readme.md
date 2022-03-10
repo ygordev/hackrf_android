@@ -1,15 +1,9 @@
 HackRF Library for Android
 ==========================
 
-This repository is a ported version of Michael Ossmann's libhackrf
-([https://github.com/mossmann/hackrf/tree/master/host/libhackrf]
-(https://github.com/mossmann/hackrf/tree/master/host/libhackrf))
-library to work with Android 3.1+.
-
-
+This repository is a ported version of [Michael Ossmann's libhackrf](https://github.com/mossmann/hackrf/tree/master/host/libhackrf) library to work with Android 3.1+.
 
 ![hackrf_android](https://pbs.twimg.com/media/BzHt03EIIAEXTvN.jpg:large)
-
 (photo by Dennis Mantz)
 
 See [http://tech.mantz-it.com](http://tech.mantz-it.com) and @dennismantz for updates.
